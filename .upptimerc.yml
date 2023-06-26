@@ -9,8 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Adecco
-    url: https://sasiq-2.dennemeyer.com/adecco-prod-iq/data/serverinformations
+  # - name: Test Adecco
+  #  url: https://sasiq-2.dennemeyer.com/adecco-prod-iq/data/serverinformations
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
